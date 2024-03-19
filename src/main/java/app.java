@@ -40,7 +40,3 @@ public class app {
         // }
     }
 }
-// case "+": {
-//     System.out.println(a + b);
-//     break;
-// }
